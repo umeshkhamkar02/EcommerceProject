@@ -1,0 +1,190 @@
+{
+  "seller": [
+    {
+      "name": "umesh khamkar",
+      "email": "umesh@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "virat kohli",
+      "email": "virat@seller.com",
+      "password": "virat@123",
+      "id": 2
+    },
+    {
+      "name": "ram gore",
+      "email": "ramgore27@gmail.com",
+      "password": "ram@123",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "name": "paine",
+      "email": "paine@gmail.com",
+      "password": "abc@123",
+      "id": 5
+    },
+    {
+      "name": "mina",
+      "email": "mina@test.com",
+      "password": "abc@123",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "name": "bhaskar",
+      "email": "bhaskar@gmail.com",
+      "password": "abc@123",
+      "id": 9
+    },
+    {
+      "name": "bhaskar",
+      "email": "bhaskar@gmail.com",
+      "password": "abc@123",
+      "id": 10
+    },
+    {
+      "name": "bhaskar",
+      "email": "bhaskar@gmail.com",
+      "password": "abc@123",
+      "id": 11
+    },
+    {
+      "name": "bhaskar",
+      "email": "bhaskar@gmail.com",
+      "password": "abc@123",
+      "id": 12
+    },
+    {
+      "name": "bhaskar",
+      "email": "bhaskar@gmail.com",
+      "password": "abc@123",
+      "id": 13
+    },
+    {
+      "name": "bhaskar",
+      "email": "bhaskar@gmail.com",
+      "password": "abc@123",
+      "id": 14
+    },
+    {
+      "name": "bhaskar",
+      "email": "bhaskar@gmail.com",
+      "password": "abc@123",
+      "id": 15
+    },
+    {
+      "name": "dhoni",
+      "email": "dhoni123@gmail.com",
+      "password": "abc@123",
+      "id": 16
+    },
+    {
+      "name": "ramesh",
+      "email": "rhohitsharma23@gmail.com",
+      "password": "abc@123",
+      "id": 17
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 18
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 19
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung M40",
+      "price": "25000",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "It is manufactured my Samsung. It has 1 year of warranty.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m40-1.jpg",
+      "id": 1
+    },
+    {
+      "name": "Iphone6",
+      "price": "40000",
+      "color": "White",
+      "category": "Mobile",
+      "description": "It is manufactured By apple.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-6-1.jpg",
+      "id": 2
+    },
+    {
+      "name": "HP 15 11th Generation Laptop",
+      "price": "40499",
+      "color": "black and white",
+      "category": "Laptop",
+      "description": "It is manufactured by HP. It has 3 years of warranty.",
+      "image": "https://m.media-amazon.com/images/I/71fvR6NCIFL._SX679_.jpg",
+      "id": 3
+    },
+    {
+      "name": "Dell Inspiron",
+      "price": "63198",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "It is manufactured by DELL.",
+      "image": "https://m.media-amazon.com/images/I/61ZQEkRzQaL._SX679_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Campus Running Shoes",
+      "price": "1499",
+      "color": "Blue",
+      "category": "Shoes",
+      "description": "This is a durable product. It ensures you get the best usage for a longer period",
+      "image": "https://m.media-amazon.com/images/I/81HmpKgx2TL._UL1500_.jpg",
+      "id": 5
+    },
+    {
+      "name": "HRX Joggers",
+      "price": "500",
+      "color": "Black",
+      "category": "Clothes",
+      "description": "It is made with 100% cotton.",
+      "image": "https://cdn.shopify.com/s/files/1/0502/2797/0215/products/1_312b7909-0d91-4ba6-bf2d-341544560e60.jpg?v=1619320306",
+      "id": 6
+    },
+    {
+      "name": "MYFITNESS\tPeanut Butter",
+      "price": "300",
+      "color": "chocolate",
+      "category": "Fitness",
+      "description": "It’s a chocolate peanut butter spread dedicated to helping you get fit!\n\n",
+      "image": "https://cdn.shopify.com/s/files/1/0440/7921/8842/products/Crispy_1200x.png?v=1659088198",
+      "id": 7
+    },
+    {
+      "name": "Rock Bay Shirt",
+      "price": "3999",
+      "color": "Brown",
+      "category": "Clothes",
+      "description": "It is made with 100% of Cotton.",
+      "image": "https://img.tatacliq.com/images/i8/658Wx734H/MP000000015298629_658Wx734H_202211171542491.jpeg",
+      "id": 8
+    }
+  ]
+}
