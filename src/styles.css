@@ -23,9 +23,36 @@ body{
 }
 .form-button{
     height: 35px;
+    border: 1px solid blueviolet;
+    color: blueviolet;
+    cursor: pointer;
 }
 
 .carousel-control-next-icon, .carousel-control-prev-icon{
     background-color: black;
     border-radius: 5px;
+}
+
+.invalid-input{
+    color: red;
+    font-size: 12px;
+    margin-top: -25px;
+    margin-left: 150px;
+}
+
+button:disabled{
+    cursor: not-allowed;
+}
+
+.error-p{
+    color: red;
+}
+
+.max-width{
+    width: 100%;
+}
+
+.message-p{
+    color: green;
+    text-align: center;
 }

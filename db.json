@@ -186,5 +186,165 @@
       "image": "https://img.tatacliq.com/images/i8/658Wx734H/MP000000015298629_658Wx734H_202211171542491.jpeg",
       "id": 8
     }
+  ],
+  "users": [
+    {
+      "name": "umesh",
+      "email": "umeshkhamkar02@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "ram",
+      "email": "ramgore27@gmail.com",
+      "password": "ram@123",
+      "id": 2
+    },
+    {
+      "name": "dhoni",
+      "email": "dhoni123@gmail.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "name": "rohit",
+      "email": "rhohitsharma23@gmail.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "name": "virat",
+      "email": "virat@gmail.com",
+      "password": "Virat@123",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "name": "Dell Inspiron",
+      "price": "63198",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "It is manufactured by DELL.",
+      "image": "https://m.media-amazon.com/images/I/61ZQEkRzQaL._SX679_.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 4,
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "email": "umeshkhamkar02@gmail.com",
+      "address": "Thane",
+      "contact": "3594569845",
+      "totalPrice": 66599,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "ramgore@gmail.com",
+      "address": "Thane",
+      "contact": "3594569842",
+      "totalPrice": 66599,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "email": "umesh@seller.com",
+      "address": "Thane",
+      "contact": "3594569834",
+      "totalPrice": 66599,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "umesh123@seller.com",
+      "address": "Thane",
+      "contact": "3594569842",
+      "totalPrice": 66599,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "email": "umesh45@seller.com",
+      "address": "Thane",
+      "contact": "3594569842",
+      "totalPrice": 1599,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "email": "umeshkhamkar02@gmail.com",
+      "address": "pune",
+      "contact": "3594569842",
+      "totalPrice": 65599,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "email": "umesh45@killer.com",
+      "address": "nashik",
+      "contact": "9456231456",
+      "totalPrice": 88298,
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 100,
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 100,
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "email": "umesh@test.com",
+      "address": "pune",
+      "contact": "9999",
+      "totalPrice": 40600,
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "email": "umeshkhamkar02@gmail.com",
+      "address": "Thane",
+      "contact": "3594569845",
+      "totalPrice": 64797,
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "email": "umeshkhamkar02@gmail.com",
+      "address": "Thane",
+      "contact": "3594569834",
+      "totalPrice": 65599,
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "email": "ramgore21@gmail.com",
+      "address": "Thane",
+      "contact": "3594569842",
+      "totalPrice": 25100,
+      "userId": 4,
+      "id": 13
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 25100,
+      "userId": 1,
+      "id": 14
+    }
   ]
 }
