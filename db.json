@@ -219,20 +219,7 @@
       "id": 5
     }
   ],
-  "cart": [
-    {
-      "name": "Dell Inspiron",
-      "price": "63198",
-      "color": "Black",
-      "category": "Laptop",
-      "description": "It is manufactured by DELL.",
-      "image": "https://m.media-amazon.com/images/I/61ZQEkRzQaL._SX679_.jpg",
-      "quantity": 1,
-      "userId": 1,
-      "productId": 4,
-      "id": 1
-    }
-  ],
+  "cart": [],
   "orders": [
     {
       "email": "umeshkhamkar02@gmail.com",
@@ -345,6 +332,14 @@
       "totalPrice": 25100,
       "userId": 1,
       "id": 14
+    },
+    {
+      "email": "umeshkhamkar02@gmail.com",
+      "address": "Thane",
+      "contact": "3594569842",
+      "totalPrice": 63298,
+      "userId": 1,
+      "id": 15
     }
   ]
 }
